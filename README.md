@@ -55,4 +55,9 @@ For data retrieval, I create an API Gateway endpoint that is hooked up to a Lamb
 
 By combining these core technologies, my architecture not only fulfills the unique requirements of each project phase but also ensures a cohesive and streamlined workflow. As you delve into the GitHub repository, witness the synergy of S3, Lambda, Amazon Rekognition, DynamoDB, Lambda Destinations, SNS, API Gateway, and more, contributing to the success of the Cloudtopia Passport Office Automation Project.
 
----
+[Module 1 - Data Processing & Storage](https://github.com/awscloudgirl/passport-photo-automation/tree/main/Module1)
+
+[Module 2 - Notifying Clients](https://github.com/awscloudgirl/passport-photo-automation/tree/main/Module2)
+
+[Module 3 - Providing an API to Access Data](https://github.com/awscloudgirl/passport-photo-automation/tree/main/Module3)
+
